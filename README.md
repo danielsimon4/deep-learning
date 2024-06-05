@@ -18,7 +18,7 @@ A visual introduction to how neural networks work.
 
 **Andrej Karpathy YouTube videos:**
 
-Explanation of how backpropagation works.
+Explanation of how backpropagation and gradient descent.
 
 - [Karpathy, Andrej. (2023). YouTube. *The spelled-out intro to neural networks and backpropagation: building micrograd*](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=0s)
 

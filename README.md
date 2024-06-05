@@ -16,7 +16,7 @@ A visual introduction to how neural networks work.
 - [3Blue1Brown. (2017). YouTube. *What is backpropagation really doing? | Chapter 3, Deep Learning*](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3)
 - [3Blue1Brown. (2017). YouTube. *Backpropagation calculus | Chapter 4, Deep Learning*](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4)
 
-**Andrej Karpathy YouTube videos:**
+**Andrej Karpathy YouTube video:**
 
 Explanation of how backpropagation and gradient descent.
 

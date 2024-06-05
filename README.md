@@ -3,6 +3,8 @@
 
 I have created this document containing sources that have helped me learn the basics of Neural Networks and Deep Learning.
 
+<br>
+
 ## Intro to Neural Networks
 
 **3Blue1Brown YouTube videos:**
@@ -17,6 +19,7 @@ I have created this document containing sources that have helped me learn the ba
 **Andrej Karpathy YouTube videos:**
 - [Karpathy, Andrej. (2017). YouTube. *The spelled-out intro to neural networks and backpropagation: building micrograd*](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=0s)
 
+<br>
 
 ## Transformers
 - [3Blue1Brown. (2024). YouTube. *But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning*](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6&t=3s)

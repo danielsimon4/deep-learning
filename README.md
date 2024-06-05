@@ -25,7 +25,10 @@ Explanation of how backpropagation and gradient descent.
 **Michael Nielsen Online Book:**
 - [Nielsen, Michael. (2019). Online Book. *Neural networks and deep learning*](http://neuralnetworksanddeeplearning.com/index.html)
 
+<br>
 
+## Natural language processing
+- [Karpathy, Andrej. (2023). YouTube. *The spelled-out intro to language modeling: building makemore*](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2)
 
 <br>
 

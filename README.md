@@ -5,7 +5,7 @@ I have created this document containing sources that have helped me learn the ba
 
 <br>
 
-## Intro to Neural Networks
+## Neural Networks
 
 **3Blue1Brown YouTube videos:**
 

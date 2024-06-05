@@ -1,5 +1,6 @@
 # deep-learning
 **Useful resources for learning Deep Learning**
+
 I have created this document containing sources that have helped me learn the basics of neural networks and deep learning.
 
 ## Intro to Neural Networks

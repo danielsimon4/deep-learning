@@ -24,7 +24,7 @@ A clear explanation of how backpropagation and gradient descent work.
 
 **Michael Nielsen Online Book:**
 
-An introduction to basic neural network concepts using the example of handwritten digit recognition.
+Introduction to neural networks, overfitting and convolutional neural networks by creating a handwritten digit recognizer.
 
 - [Nielsen, Michael. (2019). Online Book. *Neural networks and deep learning*](http://neuralnetworksanddeeplearning.com/index.html)
 

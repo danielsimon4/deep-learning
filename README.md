@@ -17,7 +17,7 @@ I have created this document containing sources that have helped me learn the ba
 - [Nielsen, Michael. (2019). Online Book. *Neural networks and deep learning*](http://neuralnetworksanddeeplearning.com/index.html)
 
 **Andrej Karpathy YouTube videos:**
-- [Karpathy, Andrej. (2017). YouTube. *The spelled-out intro to neural networks and backpropagation: building micrograd*](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=0s)
+- [Karpathy, Andrej. (2023). YouTube. *The spelled-out intro to neural networks and backpropagation: building micrograd*](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=0s)
 
 <br>
 

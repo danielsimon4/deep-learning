@@ -9,7 +9,7 @@ I have created this document containing sources that have helped me learn the ba
 
 **3Blue1Brown YouTube videos:**
 
-A visual introduction to how neural networks work.
+A great visual introduction to how neural networks work.
 
 - [3Blue1Brown. (2017). YouTube. *But what is a neural network? | Chapter 1, Deep Learning*](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1)
 - [3Blue1Brown. (2017). YouTube. *Gradient descent, how neural networks learn | Chapter 2, Deep Learning*](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2)
@@ -18,11 +18,14 @@ A visual introduction to how neural networks work.
 
 **Andrej Karpathy YouTube video:**
 
-Explanation of how backpropagation and gradient descent.
+A clear explanation of how backpropagation and gradient descent work.
 
 - [Karpathy, Andrej. (2023). YouTube. *The spelled-out intro to neural networks and backpropagation: building micrograd*](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=0s)
 
 **Michael Nielsen Online Book:**
+
+An introduction to basic neural network concepts and their use to recognize handwritten digits.
+
 - [Nielsen, Michael. (2019). Online Book. *Neural networks and deep learning*](http://neuralnetworksanddeeplearning.com/index.html)
 
 <br>

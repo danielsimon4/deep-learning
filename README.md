@@ -30,7 +30,7 @@ Introduction to neural networks, overfitting and convolutional neural networks b
 
 <br>
 
-## Natural language processing
+## Natural Language Processing
 - [Karpathy, Andrej. (2023). YouTube. *The spelled-out intro to language modeling: building makemore*](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2)
 
 <br>

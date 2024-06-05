@@ -17,6 +17,9 @@ A visual introduction to how neural networks work.
 - [3Blue1Brown. (2017). YouTube. *Backpropagation calculus | Chapter 4, Deep Learning*](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4)
 
 **Andrej Karpathy YouTube videos:**
+
+Explanation of how backpropagation works.
+
 - [Karpathy, Andrej. (2023). YouTube. *The spelled-out intro to neural networks and backpropagation: building micrograd*](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=0s)
 
 **Michael Nielsen Online Book:**

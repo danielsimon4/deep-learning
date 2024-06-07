@@ -28,6 +28,10 @@ Introduction to neural networks, overfitting and convolutional neural networks b
 
 - [Nielsen, Michael. (2019). Online Book. *Neural networks and deep learning*](http://neuralnetworksanddeeplearning.com/index.html)
 
+**Practice:**
+
+- [Simon, Daniel. (2024). Code. *CNN model to recognize handwritten digits*](https://github.com/danielsimon4/digit-recognition)
+
 <br>
 
 ## Natural Language Processing
